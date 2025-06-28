@@ -139,7 +139,7 @@ IBIS_REQUIRED = [
 GRPCIO_REQUIRED = [
     "grpcio>=1.56.2,<=1.62.3",
     "grpcio-reflection>=1.56.2,<=1.62.3",
-    "grpcio-health-checking>=1.56.2,<=1.62.3",
+    "grpcio-health-checking>=1.73.1,<=1.73.1",
 ]
 
 DUCKDB_REQUIRED = ["ibis-framework[duckdb]>=9.0.0,<10"]
