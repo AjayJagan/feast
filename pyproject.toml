@@ -124,7 +124,7 @@ mcp = ["fastapi_mcp"]
 
 ci = [
     "build",
-    "virtualenv==20.23.0",
+    "virtualenv==20.31.2",
     "cryptography>=43.0,<44",
     "ruff>=0.8.0",
     "mypy-protobuf>=3.1",
@@ -166,7 +166,7 @@ ci = [
     "types-requests<2.31.0",
     "types-setuptools",
     "types-tabulate",
-    "virtualenv<20.24.2",
+    "virtualenv<20.31.3",
     "feast[aws, azure, cassandra, clickhouse, couchbase, delta, docling, duckdb, elasticsearch, faiss, gcp, ge, go, grpcio, hazelcast, hbase, ibis, ikv, k8s, mcp, milvus, mssql, mysql, opentelemetry, spark, trino, postgres, pytorch, qdrant, rag, redis, singlestore, snowflake, sqlite_vec]"
 ]
 nlp = ["feast[docling, milvus, pytorch, rag]"]
