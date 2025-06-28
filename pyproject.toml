@@ -112,7 +112,7 @@ rag = [
     "datasets>=3.6.0",
 ]
 redis = [
-    "redis>=4.2.2,<5",
+    "redis>=6.2,<7",
     "hiredis>=2.0.0,<3",
 ]
 singlestore = ["singlestoredb<1.8.0"]
