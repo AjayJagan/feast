@@ -113,7 +113,7 @@ rag = [
 ]
 redis = [
     "redis>=4.2.2,<5",
-    "hiredis>=2.0.0,<3",
+    "hiredis>=3.2.1,<4",
 ]
 singlestore = ["singlestoredb<1.8.0"]
 snowflake = [
