@@ -79,7 +79,7 @@ REDIS_REQUIRED = [
 
 AWS_REQUIRED = ["boto3==1.38.27", "fsspec<=2024.9.0", "aiobotocore>2,<3"]
 
-KUBERNETES_REQUIRED = ["kubernetes<=20.13.0"]
+KUBERNETES_REQUIRED = ["kubernetes<=33.1.0"]
 
 SNOWFLAKE_REQUIRED = [
     "snowflake-connector-python[pandas]>=3.7,<4",
