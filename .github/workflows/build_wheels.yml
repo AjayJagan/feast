@@ -143,7 +143,7 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
           architecture: x64
-      - uses: actions/download-artifact@v4.1.7
+      - uses: actions/download-artifact@v4.3.0
         with:
           name: python-wheels
           path: dist
