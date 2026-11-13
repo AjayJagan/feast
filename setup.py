@@ -212,7 +212,7 @@ CI_REQUIRED = (
         "testcontainers==4.9.0",
         "python-keycloak==4.2.2",
         "pre-commit<3.3.2",
-        "assertpy==1.1",
+        "assertpy==2.36.0",
         "pip-tools",
         "pybindgen",
         "types-protobuf~=3.19.22",
