@@ -97,7 +97,7 @@ milvus = [
     "milvus-lite==2.4.12",
     "feast[setuptools]"
 ]
-mssql = ["ibis-framework[mssql]>=9.0.0,<=9.5.0"]
+mssql = ["ibis-framework[mssql]>=12.0.0,<=12.0.0"]
 mysql = ["pymysql", "types-PyMySQL"]
 opentelemetry = ["prometheus_client", "psutil"]
 spark = ["pyspark>=4.0.0"]
