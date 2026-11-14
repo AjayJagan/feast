@@ -1575,10 +1575,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@feast-dev/feast-ui@0.50.0":
-  version "0.50.0"
-  resolved "https://registry.yarnpkg.com/@feast-dev/feast-ui/-/feast-ui-0.50.0.tgz#d4df748349bce9c1571488405a91962fdb59d7f2"
-  integrity sha512-gYPnqaJfbgTVghG2iu9A64jZd/cJYEXuljxBAsLNNRpa2IYiZuO5wzT4N9TC+ASxvpmhRywPYah1RJSbHWrnbQ==
+"@feast-dev/feast-ui@0.68.0":
+  version "0.68.0"
+  resolved "https://registry.yarnpkg.com/@feast-dev/feast-ui/-/feast-ui-0.68.0.tgz#1ee33fe9b20302948d93ad5d93a47849a092bf2c"
+  integrity sha512-2kkDEgbbgz/876agprxeI+Jw99wSijB0qSS9lXZeQHzQQ6dl2uzH2JzaOkW/8cVLblLy7cfW82Yw6v5TDlW7wA==
   dependencies:
     "@elastic/datemath" "^5.0.3"
     "@elastic/eui" "^95.12.0"
@@ -1589,6 +1589,7 @@
     "@types/styled-components" "^5.1.34"
     dagre "^0.8.5"
     inter-ui "^3.19.3"
+    keycloak-js "^26.2.4"
     long "^5.2.3"
     moment "^2.29.1"
     protobufjs "^7.1.1"
@@ -7528,6 +7529,11 @@ jsonpointer@^5.0.0:
   dependencies:
     array-includes "^3.1.4"
     object.assign "^4.1.2"
+
+keycloak-js@^26.2.4:
+  version "26.2.5"
+  resolved "https://registry.yarnpkg.com/keycloak-js/-/keycloak-js-26.2.5.tgz#a4c2f47c655c706ab32b473d8caa820387e1eff0"
+  integrity sha512-iTR3hmYXlGZbBTskgr2PrGIfIzLrts8nwja2+D1gW6Q/S83C487rhM+WvPV9dxqXv81N0QwNG9BJAM60eDQ1Yw==
 
 kind-of@^6.0.2:
   version "6.0.3"
