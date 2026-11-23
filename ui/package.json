@@ -103,7 +103,7 @@
     "jest-resolve": "^29.7.0",
     "jest-watch-typeahead": "^2.2.2",
     "mini-css-extract-plugin": "^2.4.5",
-    "msw": "^2.7.0",
+    "msw": "^3.0.0",
     "postcss": "^8.4.4",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^6.2.1",
