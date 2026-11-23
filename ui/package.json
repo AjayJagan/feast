@@ -11,8 +11,8 @@
   "peerDependencies": {
     "@elastic/eui": "^95.12.0",
     "@emotion/react": "^11.13.3",
-    "react": "^17.0.2 || ^18.0.0",
-    "react-dom": "^17.0.2 || ^18.0.0"
+    "react": "^17.0.2 || ^18.0.0 || ^19.0.0",
+    "react-dom": "^17.0.2 || ^18.0.0 || ^19.0.0"
   },
   "peerDependenciesMeta": {
     "@elastic/eui": {
@@ -77,8 +77,8 @@
     "@testing-library/user-event": "^14.5.2",
     "@types/jest": "^27.0.1",
     "@types/node": "^22.12.0",
-    "@types/react": "^18.3.11",
-    "@types/react-dom": "^18.3.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
     "babel-jest": "^27.4.2",
     "babel-loader": "^8.2.3",
     "babel-plugin-named-asset-import": "^0.3.8",
@@ -112,9 +112,9 @@
     "prettier": "^3.5.3",
     "prompts": "^2.4.2",
     "protobufjs-cli": "^1.1.3",
-    "react": "^18.3.1",
+    "react": "^19.0.0",
     "react-dev-utils": "^12.0.1",
-    "react-dom": "^18.3.1",
+    "react-dom": "^19.0.0",
     "react-refresh": "^0.11.0",
     "resolve": "^1.20.0",
     "resolve-url-loader": "^5.0.0",
