@@ -38,7 +38,7 @@ REQUIRED = [
     "jsonschema",
     "mmh3",
     "numpy>=2.0.0,<3",
-    "pandas>=1.4.3,<3",
+    "pandas>=3.1.1,<4",
     "pyarrow<18.1.0",
     "pydantic>=2.0.0",
     "pygments>=2.12.0,<3",
