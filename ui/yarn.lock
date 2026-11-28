@@ -39,9 +39,7 @@
   integrity sha512-KiRAp/VoJaWkkte84TvUd9qjdbZAdiqyvMxrGl1N6vzFogKmaLgoM3L1kgtLicp2HP5fBJS8JrZKLVIZGVJAVg==
 
 "@babel/core@^7.1.0", "@babel/core@^7.11.1", "@babel/core@^7.11.6", "@babel/core@^7.12.3", "@babel/core@^7.16.0", "@babel/core@^7.21.3", "@babel/core@^7.23.9", "@babel/core@^7.25.8":
-  version "7.27.4"
-  resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.27.4.tgz#cc1fc55d0ce140a1828d1dd2a2eba285adbfb3ce"
-  integrity sha512-bXYxrXFubeYdvB0NhD/NBB3Qi6aZeV20GOWVI47t2dkecCEoneR4NPVcb7abpXDEvejgrUfFtG6vG/zxAKmg+g==
+  version "7.29.6"
   dependencies:
     "@ampproject/remapping" "^2.2.0"
     "@babel/code-frame" "^7.27.1"
